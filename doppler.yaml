@@ -1,0 +1,3 @@
+setup:
+  project: moneycalc
+  config: loc
